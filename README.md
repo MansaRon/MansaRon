@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MansaRon
 - 👀 I’m interested in establishing myself as a full stack developer, being proficient in Javascript & Java.
-- 🌱 I’m currently learning Ionic, JavaScript & NodeJs.
+- 🌱 I’m currently learning Ionic & NodeJs. My current stacks are Angular, Bootstrap, Firebase & MongoDB
 - 📫 How to reach me: [LinkedIn]: https://www.linkedin.com/in/thendo-ramashia-17a339144/
 
 <!---
