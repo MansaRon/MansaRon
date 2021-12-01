@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thendo Ramashia.
-- 👀 I’m working in establishing myself as a full stack developer.
+- 👀 I’m working on establishing myself as a full stack developer.
 - 🌱 I’m currently learning React & NodeJs. My current stacks are Angular, Bootstrap, Firebase & MongoDB.
 - 📫 How to reach me: [LinkedIn]: https://www.linkedin.com/in/thendo-ramashia-17a339144/.
 
