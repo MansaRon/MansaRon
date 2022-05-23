@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thendo Ramashia. Check out my profile: https://mansaron.github.io/portfolio-page/
 - 👀 I’m working on establishing myself as a full stack developer.
-- 🌱 I’m currently learning React & NodeJs. My current stacks are Angular, Bootstrap, Firebase, MongoDB & JQuery.
+- 🌱 I’m currently learning Java. My current stacks are Angular, NodeJS, Bootstrap, Firebase, MongoDB & JQuery.
 - 📫 How to reach me: [LinkedIn]: https://www.linkedin.com/in/thendo-ramashia-17a339144/.
 
 <!---
